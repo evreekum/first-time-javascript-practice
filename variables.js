@@ -3,7 +3,7 @@
 // ==========================================
 
 const start = "Let's go!";
-
+console.log("lets go");
 // ==========================================
 // 1. Declareer een variabele om jouw naam in op te slaan en zet de waarde erin. De variabele hoeft niet meer overschreven hoeft te worden.
 // ==========================================

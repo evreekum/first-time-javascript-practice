@@ -3,7 +3,14 @@ console.log('Zorg dat al jouw uitkomsten één voor één in de terminal worden 
 // ==========================================
 // 1. Declareer een variabele en sla daar de uitkomst van 4 plus 5 in op.                           // geeft 9 wanneer gelogd
 // ==========================================
+const score1 = 4;
+const score2 = 5;
+const total = score1 + score2;
+console.log(total);
 
+//Correct:
+const total1 = 4 + 5;
+console.log(total1);
 
 // ==========================================
 // 2. Declareer een variabele en sla daar de uitkomst van 7 maal 52 in op.                          // geeft 364 wanneer gelogd
